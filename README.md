@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zaheerportfoli.netlify.app/](https://zaheerportfoli.netlify.app/)
 
-- 💬 Ask me about **react , gsap , tailwind css**
+- 💬 Ask me about **DSA & MERN Stack**
 
 - 📫 How to reach me **zmulani95@gmail.com**
 
